@@ -165,16 +165,15 @@ Step through line by line and take turns explaining every other step:
 2. Fork and clone this repository:
    1. fork this repo to your personal account
    2. clone your fork to your computer
-   3. create a `personal` branch for your work
-3. Navigate to the module repository in terminal
-   - `cd welcome-to-js`
-4. Run the `study` command from your CLI
+3. Navigate into the new cloned repo dir in terminal
+4. create a `personal` branch for your work
+5. Run the `study` command from your CLI
    - `study`
-5. Leave that terminal alone
-6. The material will open in your default browser, you're good to go!
+6. Leave that terminal alone
+7. The material will open in your default browser, you're good to go!
    - you can read the `study-lenses` user guide from your browser by navigating
      to `localhost:xxxx?--help`
-6b. If the tool didn't launch in the browser, make your own tab and visit: http://localhost:3333
+7b. If the tool didn't launch in the browser, make your own tab and visit: http://localhost:3333
 
 ### When there are updates to the module:
     1. update your fork with a PR
